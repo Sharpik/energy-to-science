@@ -1,0 +1,9 @@
+{
+  "name": "energy-to-science",
+  "version": "1.0.0",
+  "title": "Energy to Science Converter",
+  "author": "Sharpik",
+  "factorio_version": "2.1",
+  "dependencies": ["base >= 2.0.0"],
+  "description": "Adds a building that consumes only electricity and generates science packs."
+}
